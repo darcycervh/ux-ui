@@ -12,15 +12,23 @@ Entonces, según en la imagen los cuadros con <code> bordes verdes</code> en mi 
 
 ![pinterest](assets/images/ux_ui.png)
 
+Y, cuando se escribe en el buscador de la página.
+
+![pinterest](assets/images/ux_ui2.png)
+
 **Explicación de la parte que conforma un UI-designer:**
 
-* Personalización de íconos.
+* Diseño de íconos.
 * Orden en la posición de las imágenes.
 * Bordes redondeados en las imágenes.
 * Los colores de la página e íconos.
+* Diseño de los íconos de la navegación local.
+* Barra de íconos en el buscador.
 
 **Explicación de la parte que conforma un UX-designer:**
 
 * Organización de las presentación de la página.
 * Íconos de ayuda al usuario en la navegación de la página (en la parte inferior).
 * El número de notificaciones en la pestaña de la página.
+* Volver al inicio dentro de la página al hacer click en el ícono de <code>X</code>.
+* Acceder al grupo de imagenes guardadas en la cuenta que coincida con el nombre puesto en el buscador.
